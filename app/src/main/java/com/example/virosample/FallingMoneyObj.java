@@ -35,7 +35,7 @@ public class FallingMoneyObj
         parent= input;
     }
 
-    // Prepare to begin falling/
+    // Prepare to begin falling.
     public void beginFalling (Vector center, float timeUntilFloor) {
         start = center.add( new Vector(ThreadLocalRandom.current().nextDouble(-0.5,0.5),2,ThreadLocalRandom.current().nextDouble(-0.5,0.5)));
             parent.setPosition(start);
