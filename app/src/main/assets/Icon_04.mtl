@@ -1,0 +1,183 @@
+newmtl Icon_01_blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_01_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_02_blinn4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_02_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_04_blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_17_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_04_blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_04_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_05_blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_18_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_05_blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_13_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_05_blinn6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_05_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_06_blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_06_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_07_blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_07_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_08_blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_08_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_09_blinn4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_09_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_1v02:blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_14_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_10_blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_10_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_11_blinn6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_11_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_12_blinn7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_12_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_13_blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_03_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_19_blinn4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_19_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_20__blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_20_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl Icon_21_blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_21_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_15_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Zukaz_PinUV_Icon_16_Dif.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl icon_01:icon_02
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd icon_01.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
